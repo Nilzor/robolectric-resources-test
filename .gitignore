@@ -1,0 +1,14 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/modules.xml
+/.idea/gradle.xml
+/.idea/runConfigurations
+.DS_Store
+build/*
+captures/
+com_crashlytics_export_strings.xml
+.idea/libraries
+uiDesigner.xml
+*.iml
+spoon-output/
